@@ -1,37 +1,46 @@
 {
   "homeWorks": [
     {
-      "hw": "",
-      "id": 0,
-      "mainPage": "In this sample web page I'd like to present my selfworks and homeworks. \n\t\t\t\n\tAlongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. JavaScrenables interactive web pages and is an essential part of web applications. The vast majority of websiuse it,[10] and major web browsers have a dedicated JavaScript engine to execute it.\n\t\t\t\n\tAs a multi-paradigm language, JavaScript supports event-driven, functional, and imperative (including object-oriented and prototype-based) programming styles. It has APIs for working with text, arrays, dates, regular expressions, and the DOM, but the language itself does not include any I/O, such as networking, storage, or graphics facilities. It relies upon the host environment in which it is embedded to provide these features.\t\n\t\t\t\n\tInitially only implemented client-side in web browsers, JavaScript engines are now embedded in many other types of host software, including server-side in web servers and databases, and in non-web programs such as word processors and PDF software, and in runtime environments that make JavaScript available for writing mobile and desktop applications, including desktop widgets."
-    },
-    {
       "hw": 1,
       "tasks": {
-        "task1": "Нарисуйте блок-схему алгоритма, который проверяет значение входного параметра x, и если это значение больше или равно 0, то возвращает в качестве результата строку \"Число положительное\", в противном случае - строку \"Число отрицательное\"",
-        "task2": "Нарисуте блок-схему алгоритма суммирования 10 чисел, кратных 5 ( начиная с 0 )\n\n просуммировать нужно десять чисел 5, 10, 15, 20, 25, 30, 35, 40, 45, 50",
-        "task3": "Напилите кодец, который работает с массивом произвольных целых чисел\n\nvar numbers = [ 254, 115, 78, 25, 91, 45, 37 ]\nВаш скрипт должен вывести в консоль все числа больше 50\n\nПосказка: используйте оператор цикла и условный оператор"
+        "task1": "qwert",
+        "task2": "fbcnnty  ",
+        "task3": "t ntn t"
       },
       "codes": {
-        "code1": "images/scheme1.svg",
-        "code2": "images/scheme2.svg",
-        "code3": "function homeWorkThree() {\n    var numbers = [254, 115, 78, 25, 91, 45, 37]\n    var res = []\n    for (var i = 0; i < numbers.length; i++) {\n        (numbers[i] > 50) ? res.push(numbers[i]) : null\n    }\n    alert(res)\n}\nhomeWorkThree()"
+        "code1": "ty nty nn",
+        "code2": " tntyn ",
+        "code3": "t nty n"
       },
       "id": 1
     },
     {
       "hw": 2,
       "tasks": {
-        "task1": "Обязательная часть ( 3 балла )\nСоздайте пустой массив letters\n\nСоздайте строку из нескольких слов, например \"Backend As A Service\"\n\nНапилите код, который разбивает эту строку на массив слов и пушит в массив letters первый символ каждого слова\n\nВыведите результат в консоль\n\nОбъедините все элементы массива letters в одну строку и выведите ее в консоль",
-        "task2": "Объявите функцию с одним формальным параметром, которая проверяет тип данных переданного аргумента и:\n\nесли это число, возвращает текущую дату в формате \"20.02.2019, 13:21:51\"\nв противном случае возвращает строку \"Неверный тип данных\"\nВызовите функцию\n\n\n",
-        "task3": "Перейдите по ссылке\n\nОткройте Chrome DevTools\n\nВ панели навигации найдите файл index01.js ( в папке js/ )\n\nУстановите breakpoint на строке вызова функции insertUserText ( строка 10 )\n\nПерезагрузите страницу\n\nТеперь обратите внимание на функцию testUserText\n\nВаша задача: обезопасить свою страницу от внедрения вредоносного кода с помощью функции валидации testUserText\n\nфункция должна вывести на страницу текст пользователя безопасным способом\n\n( т.е. текст должен быть выведен \"as is\" ( как есть ), но код не должен быть выполнен )"
+        "task1": "qwert",
+        "task2": "fbcnnty  ",
+        "task3": "t ntn t"
       },
       "codes": {
-        "code1": "function homeWorkOne() {\n    var letters = []\n    var str = \"Backend As A Service\"\n    var newStr = str.split(\" \")\n    for (var i = 0; i < newStr.length; i++){\n        letters.push((newStr[i].charAt(0)))\n    }\n    alert(letters)\n}\nhomeWorkOne()\n",
-        "code2": "function homeWorkTwo(param) {\n    typeof param === 'number' ?\n        alert(new Date().toLocaleString()) :\n            alert('Неверный тип данных')\n}\nhomeWorkTwo(5)\n\nhomeWorkTwo('google')\n",
-        "code3": "images/HW_2.png"
+        "code1": "ty nty nn",
+        "code2": " tntyn ",
+        "code3": "t nty n"
       },
       "id": 2
+    },
+    {
+      "hw": 3,
+      "tasks": {
+        "task1": "qwert",
+        "task2": "fbcnnty  ",
+        "task3": "t ntn t"
+      },
+      "codes": {
+        "code1": "ty nty nn",
+        "code2": " tntyn ",
+        "code3": "t nty n"
+      },
+      "id":3
     }
   ]
 }
