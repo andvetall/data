@@ -4,84 +4,84 @@
         "img": "https://www.lg.com/au/images/tvs/42ln5400/gallery/medium01.jpg",
         "title": "LG LCD tv 43''",
         "description": "SmartTV, Android 7.1, FullHD 1080px",
-        "prise": "25000",
+        "prise": "35",
         "id": 1
     },
     {
           "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5792/5792903ld.jpg",
           "title": "LG LCD tv 43''",
           "description": "SmartTV, Android 7.1, FullHD 1080px",
-          "prise": "25000",
+          "prise": "25",
           "id": 2
     },
     {
         "img": "https://rim.org.ru/wp-content/uploads/2019/02/13614.970-4.png",
         "title": "LG LCD tv 43''",
         "description": "SmartTV, Android 7.1, FullHD 1080px",
-        "prise": "25000",
+        "prise": "15",
         "id": 3
     },
     {
       "img": "https://img.mvideo.ru/Pdb/10010655b.jpg",
       "title": "LG LCD tv 43''",
       "description": "SmartTV, Android 7.1, FullHD 1080px",
-      "prise": "25000",
+      "prise": "17",
       "id": 4
     },
     {
       "img": "https://www.lg.com/ca_en/images/desktop-monitors/md05883096/gallery/28LJ4540_d1_270917.jpg",
       "title": "LG LCD tv 43''",
       "description": "SmartTV, Android 7.1, FullHD 1080px",
-      "prise": "25000",
+      "prise": "15",
       "id": 5
     },
     {
       "img": "https://www.lg.com/us/images/tvs/md05950677/gallery/medium001.jpg",
       "title": "LG LCD tv 43''",
       "description": "SmartTV, Android 7.1, FullHD 1080px",
-      "prise": "25000",
+      "prise": "20",
       "id": 6
     },
     {
       "img": "https://www.lg.com/au/images/tvs/42ln5400/gallery/medium01.jpg",
       "title": "LG LCD tv 43''",
       "description": "SmartTV, Android 7.1, FullHD 1080px",
-      "prise": "25000",
+      "prise": "25",
       "id": 7
   },
   {
         "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5792/5792903ld.jpg",
         "title": "LG LCD tv 43''",
         "description": "SmartTV, Android 7.1, FullHD 1080px",
-        "prise": "25000",
+        "prise": "40",
         "id": 8
   },
   {
       "img": "https://rim.org.ru/wp-content/uploads/2019/02/13614.970-4.png",
       "title": "LG LCD tv 43''",
       "description": "SmartTV, Android 7.1, FullHD 1080px",
-      "prise": "25000",
+      "prise": "30",
       "id": 9
   },
   {
     "img": "https://img.mvideo.ru/Pdb/10010655b.jpg",
     "title": "LG LCD tv 43''",
     "description": "SmartTV, Android 7.1, FullHD 1080px",
-    "prise": "25000",
+    "prise": "25",
     "id": 10
   },
   {
     "img": "https://www.lg.com/ca_en/images/desktop-monitors/md05883096/gallery/28LJ4540_d1_270917.jpg",
     "title": "LG LCD tv 43''",
     "description": "SmartTV, Android 7.1, FullHD 1080px",
-    "prise": "25000",
+    "prise": "21",
     "id": 11
   },
   {
     "img": "https://www.lg.com/us/images/tvs/md05950677/gallery/medium001.jpg",
     "title": "LG LCD tv 43''",
     "description": "SmartTV, Android 7.1, FullHD 1080px",
-    "prise": "25000",
+    "prise": "19",
     "id": 12
   }
     
