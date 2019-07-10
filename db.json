@@ -1,46 +1,89 @@
 {
-  "homeWorks": [
+  "data": [
     {
-      "hw": 1,
-      "tasks": {
-        "task1": "qwert",
-        "task2": "fbcnnty  ",
-        "task3": "t ntn t"
-      },
-      "codes": {
-        "code1": "ty nty nn",
-        "code2": " tntyn ",
-        "code3": "t nty n"
-      },
-      "id": 1
+        "img": "https://www.lg.com/au/images/tvs/42ln5400/gallery/medium01.jpg",
+        "title": "LG LCD tv 43''",
+        "description": "SmartTV, Android 7.1, FullHD 1080px",
+        "prise": "25000",
+        "id": 1
     },
     {
-      "hw": 2,
-      "tasks": {
-        "task1": "qwert",
-        "task2": "fbcnnty  ",
-        "task3": "t ntn t"
-      },
-      "codes": {
-        "code1": "ty nty nn",
-        "code2": " tntyn ",
-        "code3": "t nty n"
-      },
-      "id": 2
+          "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5792/5792903ld.jpg",
+          "title": "LG LCD tv 43''",
+          "description": "SmartTV, Android 7.1, FullHD 1080px",
+          "prise": "25000",
+          "id": 2
     },
     {
-      "hw": 3,
-      "tasks": {
-        "task1": "qwert",
-        "task2": "fbcnnty  ",
-        "task3": "t ntn t"
-      },
-      "codes": {
-        "code1": "ty nty nn",
-        "code2": " tntyn ",
-        "code3": "t nty n"
-      },
-      "id":3
-    }
+        "img": "https://rim.org.ru/wp-content/uploads/2019/02/13614.970-4.png",
+        "title": "LG LCD tv 43''",
+        "description": "SmartTV, Android 7.1, FullHD 1080px",
+        "prise": "25000",
+        "id": 3
+    },
+    {
+      "img": "https://img.mvideo.ru/Pdb/10010655b.jpg",
+      "title": "LG LCD tv 43''",
+      "description": "SmartTV, Android 7.1, FullHD 1080px",
+      "prise": "25000",
+      "id": 4
+    },
+    {
+      "img": "https://www.lg.com/ca_en/images/desktop-monitors/md05883096/gallery/28LJ4540_d1_270917.jpg",
+      "title": "LG LCD tv 43''",
+      "description": "SmartTV, Android 7.1, FullHD 1080px",
+      "prise": "25000",
+      "id": 5
+    },
+    {
+      "img": "https://www.lg.com/us/images/tvs/md05950677/gallery/medium001.jpg",
+      "title": "LG LCD tv 43''",
+      "description": "SmartTV, Android 7.1, FullHD 1080px",
+      "prise": "25000",
+      "id": 6
+    },
+    {
+      "img": "https://www.lg.com/au/images/tvs/42ln5400/gallery/medium01.jpg",
+      "title": "LG LCD tv 43''",
+      "description": "SmartTV, Android 7.1, FullHD 1080px",
+      "prise": "25000",
+      "id": 7
+  },
+  {
+        "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5792/5792903ld.jpg",
+        "title": "LG LCD tv 43''",
+        "description": "SmartTV, Android 7.1, FullHD 1080px",
+        "prise": "25000",
+        "id": 8
+  },
+  {
+      "img": "https://rim.org.ru/wp-content/uploads/2019/02/13614.970-4.png",
+      "title": "LG LCD tv 43''",
+      "description": "SmartTV, Android 7.1, FullHD 1080px",
+      "prise": "25000",
+      "id": 9
+  },
+  {
+    "img": "https://img.mvideo.ru/Pdb/10010655b.jpg",
+    "title": "LG LCD tv 43''",
+    "description": "SmartTV, Android 7.1, FullHD 1080px",
+    "prise": "25000",
+    "id": 10
+  },
+  {
+    "img": "https://www.lg.com/ca_en/images/desktop-monitors/md05883096/gallery/28LJ4540_d1_270917.jpg",
+    "title": "LG LCD tv 43''",
+    "description": "SmartTV, Android 7.1, FullHD 1080px",
+    "prise": "25000",
+    "id": 11
+  },
+  {
+    "img": "https://www.lg.com/us/images/tvs/md05950677/gallery/medium001.jpg",
+    "title": "LG LCD tv 43''",
+    "description": "SmartTV, Android 7.1, FullHD 1080px",
+    "prise": "25000",
+    "id": 12
+  }
+    
   ]
 }
